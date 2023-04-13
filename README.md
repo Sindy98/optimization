@@ -4,5 +4,4 @@ RRT
 
 RRT* improves the searching efficiency by rewrite and randomrelink.
 
-To do:
-BIT
+BIT* imrpoves the searching efficiency by informed sampling and edge/node priority.
